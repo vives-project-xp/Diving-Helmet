@@ -9,7 +9,7 @@
 <br>
 
 <h3>
-    Beschrijving van ons project:
+    <b>Beschrijving van ons project:</b>
     <br>
     <br>
     <br>
@@ -18,10 +18,10 @@
     <br>
     <br>
     <br>
-    Ons project is ook een soort van add-on voor escape-room 'The Push' in Dudzele.<b>
-    De spelers vinden een oude duikershelm en moeten deze in een andere ruimte op eenr statief zetten. <br>
+    Ons project is ook een soort van add-on voor escape-room 'The Push' in Dudzele.<br>
+    De spelers vinden een oude duikershelm en moeten deze in een andere ruimte op een statief zetten. <br>
     Door middel van projectie kunnen we vervolgens letters projecteren op het grote doek. <br>
-    Die letters hebben de spelers nodig om verder te gaan in de escape-room. 
+    Die letters hebben de spelers nodig om verder te gaan in de escape-room.<br> 
     <br>
     <br>
     <br>
@@ -30,13 +30,11 @@
     <br>
     <br>
     <br>
-    Ons project werkt als volgt: 
+    <b>Ons project werkt als volgt: </b>
     <br>
     <ul>
         <li>Een systeem bedenken die kan herkennen of de helm juist gepositioneerd staat, dus met de voorkant richting het projectiescherm</li>
         <li>Een systeem bedenken om de letters te projecteren op het scherm</li>
-        <li></li>
-        <li></li>
         <li></li>
     </ul>
     <br>
@@ -125,6 +123,13 @@
 <h1>How to set up the dev environment</h1>
 <h1>How to ship a change</h1>
 <h1>Change log</h1>
+<h1>Used programs</h1>
+    <br>
+    <br>
+    <ul>
+        <li>Thinkercat</li>
+        <li>Thinkercat</li>
+
 <h1>Photos</h1>
     <br>
     <br>
