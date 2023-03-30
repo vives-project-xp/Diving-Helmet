@@ -89,7 +89,7 @@
     <br>
     <br>
     <br>
-    Op 09/03/2023 hebben we een bestellijst samengesteld met alle benodigdheden voor ons project, waaronder drie Hall-sensoren, een lens voor de LED, een LED-lamp en een transistor. We hebben ook gewerkt aan het ontwerp van de letters met behulp van een softwaretool genaamd Thinkercat.
+    Op 09/03/2023 hebben we een bestellijst samengesteld met alle benodigdheden voor ons project, waaronder drie Hall-sensoren, een lens voor de LED, een LED-lamp en een transistor. We hebben ook gewerkt aan het ontwerp van de letters met behulp van een softwaretool genaamd Autocat.
     <br>
     <br>
     <br>
@@ -97,7 +97,7 @@
     <br>
     <br>
     Op 16/03/2023 zijn we begonnen met het in elkaar zetten van het ontwerp, maar we konden het niet voltooien vanwege de late levering van de benodigdheden en de vertraging in de levering van de letters. Daarom hebben we ons gericht op het verder uitwerken van ons plan.
-    transistor. We hebben ook gewerkt aan het ontwerp van de letters met behulp van een softwaretool genaamd Thinkercat.
+    transistor. We hebben ook gewerkt aan het ontwerp van de letters met behulp van een softwaretool genaamd Autocat.
     <br>
     <br>
     <br>
@@ -125,27 +125,26 @@
 <h1>Change log</h1>
 <h1>Used programs</h1>
     <br>
-    <br>
     <ul>
-        <li>Thinkercat</li>
-        <li>Thinkercat</li>
-
+        <li>Autocat</li>
+        <li>Eagle</li>
+    </ul>
 <h1>Photos</h1>
     <br>
     <br>
     <br>
     <img src="./foto1.jpg" alt="helm in escape-room" height= "400"><br>
-    helm in de escape-room
+    HELM IN ESCAPE-ROOM
     <br>
     <br>
     <br>
     <img src="./foto2.jpg" alt="opendeurdag maart" height= "400"><br>
-    opendeurdag maart
+    OPENDEURDAG MAART
     <br>
     <br>
     <br>
     <img src="./foto3.jpg" alt="test in donkere ruimte" height= "400"><br>
-    test prototype in donkere kamer
+    EST PROTOTYPE IN DONKERE KAMER
     <br>
     <br>
     <br>
@@ -156,27 +155,23 @@
 <h1>Contact and participators</h1>
     <br>
     <br>
-    Author: Verleye Milan student @ VIVES Brugge
+    Main author: Milan Verleye, student @ VIVES Brugge
     <br>
     E-mail: milan.verleye@student.vives.be
     <br>
     <br>
     <br>
     <br>
-    Made by:
+     <b>Jef Pichal</b>
     <br>
     <br>
-    <br>
-     Jef Pichal
-    <br>
-    <br>
-     William Rogov
+     <b>William Rogov</b>
     <br>
     <br>
-     Richard Rogov
+     <b>Richard Rogov</b>
     <br>
     <br>
-     Milan Verleye
+     <b>Milan Verleye</b>
 
 
 
