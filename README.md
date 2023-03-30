@@ -20,9 +20,6 @@
         <br>
         <br>
         <br>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d320264.2671356268!2d3.181877104283389!3d51.1625986737195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c357c88021aabb%3A0x957016dcd84ab026!2sTHE%20PUSH%20MYSTERY%20ROOMS!5e0!3m2!1snl!2sbe!4v1680179065366!5m2!1snl!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <br>
-        <br>
         <br>
         <br>
         <br>
@@ -154,9 +151,6 @@
         <br>
         <br>
         <b>Milan Verleye</b>
-
-
-
     </h3>
 </p>
 
