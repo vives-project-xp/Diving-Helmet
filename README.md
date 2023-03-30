@@ -2,14 +2,10 @@
 <br>
 <br>
 <br>
-<h2>Made by Jef Pichal, William Rogov, Richard Rogov, Milan Verleye</h2>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<h1> What your project does </h1>
+<h1> What our project does </h1>
 <br>
 <br>
 <img src="./diving-helmet.jpeg" alt="diving helmet">
@@ -52,7 +48,7 @@
     <br>
     <br>
     <br>
-    <h1>Kalender</h1>
+    <h1>Calendar</h1>
     <br>
     <br>
     <br>
@@ -60,7 +56,7 @@
     <br>
     <br>
     <br>
-    -FEBRUARI-
+    -FEBRUARI 2023-
     <br>
     <br>
     <br>
@@ -77,7 +73,7 @@
     <br>
     <br>
     <br>
-    -MAART-
+    -MAART 2023-
     <br>
     <br>
     <br>
@@ -133,13 +129,54 @@
     <h1>How to set up the dev environment</h1>
     <h1>How to ship a change</h1>
     <h1>Change log</h1>
-    <h1>License and author info</h1>
+    <h1>Photos</h1>
     <br>
     <br>
+    <br>
+    <img src="./foto1.jpg" alt="helm in escape-room" height= "400"><br>
+    helm in de escape-room
+    <br>
+    <br>
+    <br>
+    <img src="./foto2.jpg" alt="opendeurdag maart" height= "400"><br>
+    opendeurdag maart
+    <br>
+    <br>
+    <br>
+    <img src="./foto3.jpg" alt="test in donkere ruimte" height= "400"><br>
+    test prototype in donkere kamer
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1>Contact and participators</h1>
     <br>
     <br>
     Author: Verleye Milan student @ VIVES Brugge
+    <br>
     E-mail: milan.verleye@student.vives.be
+    <br>
+    <br>
+    <br>
+    <br>
+    Made by:
+    <br>
+    <br>
+    <br>
+     Jef Pichal
+    <br>
+    <br>
+     William Rogov
+    <br>
+    <br>
+     Richard Rogov
+    <br>
+    <br>
+     Milan Verleye
+
 
 
 </h3>
