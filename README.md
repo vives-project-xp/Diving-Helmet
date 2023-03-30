@@ -4,7 +4,8 @@
 <h1> What our project does </h1>
 <br>
 <br>
-<img src="./diving-helmet.jpeg" alt="diving helmet">
+
+<img src="./diving-helmet.jpeg" alt="diving helmet" style= "border:10px solid #D3D3D3; padding:1px; margin:7px">
 <br>
 <br>
 
@@ -35,14 +36,13 @@
     <ul>
         <li>Een systeem bedenken die kan herkennen of de helm juist gepositioneerd staat, dus met de voorkant richting het projectiescherm</li>
         <li>Een systeem bedenken om de letters te projecteren op het scherm</li>
-        <li></li>
     </ul>
     <br>
     <br>
     <br>
     <br>
     <br>
-<h1>Calendar</h1>
+<h1>Calendar &#x1F4C5;</h1>
     <br>
     <br>
     <br>
@@ -129,22 +129,22 @@
         <li>Autocat</li>
         <li>Eagle</li>
     </ul>
-<h1>Photos</h1>
+<h1>Photos &#x1F4F7;</h1>
     <br>
     <br>
     <br>
-    <img src="./foto1.jpg" alt="helm in escape-room" height= "400"><br>
-    HELM IN ESCAPE-ROOM
+    <img src="./foto1.jpg" alt="helm in escape-room" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+    <b>HELM IN ESCAPE-ROOM</b>
     <br>
     <br>
     <br>
-    <img src="./foto2.jpg" alt="opendeurdag maart" height= "400"><br>
-    OPENDEURDAG MAART
+    <img src="./foto2.jpg" alt="opendeurdag maart" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+    <b>OPENDEURDAG MAART</b>
     <br>
     <br>
     <br>
-    <img src="./foto3.jpg" alt="test in donkere ruimte" height= "400"><br>
-    EST PROTOTYPE IN DONKERE KAMER
+    <img src="./foto3.jpg" alt="test in donkere ruimte" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+    <b>TEST PROTOTYPE IN DONKERE KAMER</b>
     <br>
     <br>
     <br>
@@ -152,7 +152,7 @@
     <br>
     <br>
     <br>
-<h1>Contact and participators</h1>
+<h1>Contact and participators &#9742;</h1>
     <br>
     <br>
     Main author: Milan Verleye, student @ VIVES Brugge
