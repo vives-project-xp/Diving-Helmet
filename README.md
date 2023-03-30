@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<img src="./diving-helmet.jpeg" alt="diving helmet" height=200 width=200>
+<img src="./diving-helmet.jpeg" alt="diving helmet">
 <br>
 <br>
 <p>
