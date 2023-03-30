@@ -1,5 +1,11 @@
 # Diving-Helmet
+<br>
+<br>
+<br>
 <h2>Made by Jef Pichal, William Rogov, Richard Rogov, Milan Verleye</h2>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -122,6 +128,18 @@
     <br>
     <br>
     <br>
+    <h1>How to install it</h1>
+    <h1>Example usage</h1>
+    <h1>How to set up the dev environment</h1>
+    <h1>How to ship a change</h1>
+    <h1>Change log</h1>
+    <h1>License and author info</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    Author: Verleye Milan student @ VIVES Brugge
+    E-mail: milan.verleye@student.vives.be
 
 
 </h3>
