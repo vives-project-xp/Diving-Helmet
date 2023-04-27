@@ -128,6 +128,12 @@
         <br>
         <br>
         <br>
+        <img src="./foto4.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <img src="./foto5.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
         <br>
         <br>
         <br>
