@@ -100,7 +100,14 @@
         <br>
         <br>
         <br>
-        <h1>How to install it</h1>
+    <h1>How to install it</h1>
+        <br>
+        <br>
+        <br>
+        Plaats de magneetsensoren in de helmhouder. Verbind ze volgens het schema in bijlage. Plaats de staaf waar de opstelling op gemonteerd is op dezelfde hoogte als het vizier van de helm.
+        <br>
+        <br>
+        <br>
     <h1>Example usage</h1>
     <h1>How to set up the dev environment</h1>
     <h1>How to ship a change</h1>
@@ -108,8 +115,9 @@
     <h1>Used programs</h1>
         <br>
         <ul>
-            <li>Autocat</li>
+            <li>Autocad</li>
             <li>Eagle</li>
+            <li>Tinckercad</li>
         </ul>
     <h1>Photos &#x1F4F7;</h1>
         <br>
