@@ -162,9 +162,9 @@
         <br>
         <br>
         <br>
-        <img src="./foto7.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+        <img src="./foto7.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
         <b>PROJECT OP 04/05</b>
-        <img src="./foto8.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+        <img src="./foto8.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
         <br>
         <br>
         <br>
