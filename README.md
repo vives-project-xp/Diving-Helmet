@@ -155,7 +155,7 @@
         <br>
         <br>
     <h1>Electric Circuit</h1>
-        <img src="./image.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+        <img src="./foto10.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
     <h1>Photos &#x1F4F7;</h1>
         <br>
         <img src="./foto1.jpg" alt="helm in escape-room" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
