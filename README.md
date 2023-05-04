@@ -133,11 +133,30 @@
             <li>Eagle</li>
             <li>Tinckercad</li>
         </ul>
-    <h1>Plan met onderdelen</h1>
+    <h1>Onderdelen</h1>
+    <br>
+    <br>
+    <br>
+    <ul>
+        <li>lens : https://www.kabelshop.nl/Toolland-Lens-voor-loeplamp-Toolland-3-dioptrie-O-10-cm-VTLLAMPXX-3DL-i18553-t245755.html?gclid=Cj0KCQiAxbefBhDfARIsAL4XLRoZfJOQI-1zdj85nWLnMs0SBbc_1uflFTE0JevNpZqviNM2cknX7XEaAo79EALw_wcB </li>
+        <li>https://be.farnell.com/cree/xpgbwt-he-0000-00je5/led-hb-4000k-neutral-white-148lm/dp/3050617 </li>
+        <li>Makerbeam</li>
+        <li>Reed-relais</li>
+        <li>weerstand (1 Ohm)</li>
+        <li>Breadboard</li>
+        <li>3d-prints</li>
+    </ul>
+     <br>
+    <br>
+    <br>
+     <h1>Plan met onderdelen</h1>
+  
+
     <img src="./foto9.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
     <br>
     <br>
     <br>
+    <h1>Onderdelen</h1>
     <h1>Electric Circuit</h1>
         <img src="./image.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
     <h1>Photos &#x1F4F7;</h1>
