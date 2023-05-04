@@ -138,13 +138,13 @@
     <br>
     <br>
     <ul>
-        <li>lens : https://www.kabelshop.nl/Toolland-Lens-voor-loeplamp-Toolland-3-dioptrie-O-10-cm-VTLLAMPXX-3DL-i18553-t245755.html?gclid=Cj0KCQiAxbefBhDfARIsAL4XLRoZfJOQI-1zdj85nWLnMs0SBbc_1uflFTE0JevNpZqviNM2cknX7XEaAo79EALw_wcB </li>
-        <li>https://be.farnell.com/cree/xpgbwt-he-0000-00je5/led-hb-4000k-neutral-white-148lm/dp/3050617 </li>
-        <li>Makerbeam</li>
-        <li>Reed-relais</li>
-        <li>weerstand (1 Ohm)</li>
-        <li>Breadboard</li>
-        <li>3d-prints</li>
+        <li><b>lens : </b>https://www.kabelshop.nl/Toolland-Lens-voor-loeplamp-Toolland-3-dioptrie-O-10-cm-VTLLAMPXX-3DL-i18553-t245755.html?gclid=Cj0KCQiAxbefBhDfARIsAL4XLRoZfJOQI-1zdj85nWLnMs0SBbc_1uflFTE0JevNpZqviNM2cknX7XEaAo79EALw_wcB </li>
+        <li><b>LED : </b>https://be.farnell.com/cree/xpgbwt-he-0000-00je5/led-hb-4000k-neutral-white-148lm/dp/3050617 </li>
+        <li><b>Makerbeam</b></li>
+        <li><b>Reed-relais</b></li>
+        <li><b>weerstand (1 Ohm)</b></li>
+        <li><b>Breadboard</b></li>
+        <li><b>3d-prints</b></li>
     </ul>
      <br>
     <br>
