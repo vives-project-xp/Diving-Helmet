@@ -149,12 +149,11 @@
      <br>
     <br>
     <br>
-     <h1>Plan met onderdelen</h1>
-    <img src="./foto9.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
-    <br>
-    <br>
-    <br>
-    <h1>Onderdelen</h1>
+    <h1>Plan met onderdelen</h1>
+        <img src="./foto9.jpg" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
+        <br>
+        <br>
+        <br>
     <h1>Electric Circuit</h1>
         <img src="./image.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
     <h1>Photos &#x1F4F7;</h1>
