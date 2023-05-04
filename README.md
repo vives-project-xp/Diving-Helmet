@@ -100,6 +100,20 @@
         <br>
         <br>
         <br>
+        <b>-MEI 2023-</b>
+         <br>
+        *
+        <br>
+        *
+        <br>
+        *
+        <br>
+        *
+        <br>
+        *
+        <br>
+        Tot op vandaag (04/05) hebben gekeken voor het design van ons project. Ook hebben we lenzen aangeschaft die we dan getest hebben in de donkere kamer. We zijn ook veel bezig geweest met het desingnen van 3d-modellen om ons project wat professioneler te laten overkomen.
+        <img src="./foto6.png" alt="" height= "400"  style= "border:10px solid #D3D3D3; padding:1px; margin:7px"><br>
     <h1>How to install it</h1>
         <br>
         <br>
